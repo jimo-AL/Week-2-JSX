@@ -63,7 +63,7 @@ body {
 
 /* Main price value */
 .card-price-amount {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 400;
     color: rgba(38, 37, 30, 0.5);
 }
